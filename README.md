@@ -4,20 +4,19 @@
  
 ![ESP8266-4ch-board](https://github.com/peca2345/ESP8266-boards/blob/main/IMG/ESP8266/ESP8266_4ch_relay.png?raw=true)
 
-**FREE GPIO**
-ADC  
+**FREE GPIO PINS**
 
-GPIO4 
+| GPIO    | INPUT | OUTPUT |
+| ------- | ----- | -----  |
+| ADC     |       |        |
+| GPIO4   |       |        |
+| GPIO5   |       |        |
+| GPIO12  |       |        |
+| GPIO13  |       |        |
+| GPIO14  |       |        |
+| GPIO16  |       |        |  
 
-GPIO5 
-
-GPIO12 
-
-GPIO13
-
-GPIO14
-
-GPIO16     
+   
 
 
 
