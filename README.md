@@ -11,10 +11,10 @@ SHOP: [aliexpress](https://www.aliexpress.com/item/1005001651180110.html?spm=a2g
 | ADC     |       |        |
 | GPIO4   |       |        |
 | GPIO5   |       |        |
-| GPIO12  |       |        |
-| GPIO13  |       |        |
-| GPIO14  |       |        |
-| GPIO16  |       |        |  
+| GPIO12  |       | RELAY  |
+| GPIO13  |       | RELAY  |
+| GPIO14  |       | RELAY  |
+| GPIO16  |       | RELAY  |
 
 ![ESP8266-4ch-board](https://github.com/peca2345/ESP8266-boards/blob/main/IMG/ESP8266/ESP8266_4ch_relay.png?raw=true)
 
@@ -28,8 +28,8 @@ SHOP: [aliexpress](https://www.aliexpress.com/item/1005001651180110.html?spm=a2g
 | GPIO    | INPUT | OUTPUT |
 | ------- | ----- | -----  |
 | ADC     |       |        |
-| GPIO4   |       |        |
-| GPIO5   |       |        |
+| GPIO4   |       | RELAY  |
+| GPIO5   |       | RELAY  |
 | GPIO12  |       |        |
 | GPIO13  |       |        |
 | GPIO14  |       |        |
