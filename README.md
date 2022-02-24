@@ -6,11 +6,17 @@
 
 **FREE GPIO**
 ADC  
+
 GPIO4 
+
 GPIO5 
-GPIO12                           
-GPIO13           
-GPIO14   
+
+GPIO12 
+
+GPIO13
+
+GPIO14
+
 GPIO16     
 
 
