@@ -51,7 +51,6 @@ SHOP: [aliexpress](https://www.aliexpress.com/item/32967365594.html?spm=a2g0o.de
 | GPIO14  |       |        |
 | GPIO16  |       |        |
 
-![ESP8266-1ch-board](https://github.com/peca2345/ESP8266-boards/blob/main/IMG/ESP8266/ESP8266_1ch_relay_V2.png?raw=true)
-
+![ESP8266-1ch-board](https://github.com/peca2345/ESP8266-boards/blob/main/IMG/ESP8266/ESP8266_1ch_relay_V3.png?raw=true)
 
 []() 
